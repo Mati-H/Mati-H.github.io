@@ -91,11 +91,15 @@
     font-weight: bold;
 }
 
-.light{
+.light {
     color: gray;
     font-style: italic;
 }
 
-.right-set{
+.right-set {
     text-align: right;
+}
+
+.hover-select:hover {
+    cursor: pointer;
 }
